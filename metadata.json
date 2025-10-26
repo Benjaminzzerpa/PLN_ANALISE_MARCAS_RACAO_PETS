@@ -1,0 +1,5 @@
+{
+  "name": "Análise de Sentimento de Marcas",
+  "description": "Uma aplicação web que utiliza a API Gemini para analisar o sentimento de comentários online sobre marcas de ração para cães e gatos, fornecendo insights sobre a percepção do consumidor.",
+  "requestFramePermissions": []
+}
